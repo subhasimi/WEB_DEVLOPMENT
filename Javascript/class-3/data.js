@@ -52,8 +52,8 @@ console.log(typeof decimal_no); // number
 let num1 = 100;
 let num2 = 200;
 // console.log(num1 + num2); // 300
-let addition_result = num1 + num2;
-console.log(addition_result); // 300
+// let addition_result = num1 + num2;
+// console.log(addition_result); // 300
 
 // todo: Do the above task and upload it in github then share me the link in the group.
 
@@ -82,7 +82,7 @@ console.log(addition_result); // 300
 
 // Divison :-
 
-let a = 8;
-let b = 6;
-let c= a/b;
-console.log(c); // 1.3333333333333333
+// let a = 8;
+// let b = 6;
+// let c = a/b;
+// console.log(c); // 1.3333333333333333
