@@ -118,7 +118,7 @@
 // Higher order function
 
 // Double the value
-const array1 = [1, 4, 9, 16];
+// const array1 = [1, 4, 9, 16];
 // for (let i = 0; i < array1.length; i++) {
 //   array1[i] = array1[i] * 2;
 // console.log(array1);
@@ -147,17 +147,34 @@ const array1 = [1, 4, 9, 16];
 
 // Filter
 // chars greater than 6
-const words = ["spray", "elite", "exuberant", "destruction", "present"];
+// const words = ["spray", "elite", "exuberant", "destruction", "present"];
 // const longWords = words.filter((word) => word.length > 6);
 // console.log(longWords);
-const filteredArray = words.filter((el, i) => {
-  return el.length > 6;
-});
+// const filteredArray = words.filter((el, i) => {
+//   return el.length > 6;
+// });
 // console.log(filteredArray);
 
 // Odd
-const numbers = [1, 2, 3, 4, 5, 6,7,8,9,10,11,12,13,14,15,16,17];
-const oddNumbers = numbers.filter((el, i) => {
-  return el % 2 !== 0;
-});
-console.log(oddNumbers);
+// const numbers = [1, 2, 3, 4, 5, 6,7,8,9,10,11,12,13,14,15,16,17];
+// const oddNumbers = numbers.filter((el, i) => {
+//   return el % 2 !== 0;
+// });
+// console.log(oddNumbers);
+
+
+
+
+
+// const map1 = new Map();
+
+// map1.set();
+// map1.set(1, 'foo');
+
+// console.log(map1.size);
+// Expected output: 2
+
+// map1.clear();
+
+// console.log(map1.size);
+// Expected output: 0
